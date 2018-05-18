@@ -7,4 +7,4 @@ npm install
 meteor run
 ```
 
-You can change the admin authentication info in `/server/main.js`
+**You can change the admin authentication info in** `/server/main.js`
